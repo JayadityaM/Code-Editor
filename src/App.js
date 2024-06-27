@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import ".in/css/App.css";
+import "./css/App.css";
 import Button from "./components/Button";
 import Editor from "./components/Editor";
 
